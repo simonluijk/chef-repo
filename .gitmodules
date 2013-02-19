@@ -25,3 +25,9 @@
 [submodule "cookbooks/users"]
 	path = cookbooks/users
 	url = git://github.com/opscode-cookbooks/users.git
+[submodule "cookbooks/sudo"]
+	path = cookbooks/sudo
+	url = git://github.com/opscode-cookbooks/sudo.git
+[submodule "cookbooks/ntp"]
+	path = cookbooks/ntp
+	url = git://github.com/opscode-cookbooks/ntp.git
